@@ -1,4 +1,4 @@
-Programador Back-End
+Desenvolvedor Back-End
 -------------------
 
 Desenvolvedor Back-End com foco em C# e .NET, atuando no desenvolvimento de APIs REST, sistemas web e integração com bancos de dados. Experiência com SQL Server, Git, Docker e Azure.
